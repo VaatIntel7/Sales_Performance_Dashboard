@@ -1,5 +1,5 @@
 
-# Sales Performance Dashboard
+# Sales Performance Dashboard_Excel
 
 A clean, interactive **Sales Performance Dashboard** built in Microsoft Excel to track revenue, profit, customers, and sales performance across products, cities, and sales rep.
 
